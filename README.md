@@ -33,3 +33,5 @@ python pe_predictor.py --input data/VCB.csv
 * Bắt lỗi khi train/predict và log rõ lý do.
 * Đối với những mã lọc dữ liệu trong 5 năm mà **không đủ 4 điểm hợp lệ** → skip (không tính).
 
+## Resource:
+* SVR: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
